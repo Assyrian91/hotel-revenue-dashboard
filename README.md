@@ -1,3 +1,9 @@
+> ⚠️ **This repo has moved.** It's now maintained as part of
+> [`hotel-intelligence-suite`](https://github.com/Assyrian91/hotel-intelligence-suite),
+> a consolidated collection of hotel operations projects, with full commit
+> history preserved. This repo is archived and kept read-only for reference.
+
+---
 # 🏨 Hotel Revenue Intelligence Dashboard
 
 > End-to-end data engineering + BI project tracking Occupancy Rate, ADR, and RevPAR
